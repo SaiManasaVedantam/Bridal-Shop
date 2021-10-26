@@ -23,3 +23,5 @@ Back End:
 
 Database:
 - MySQL
+
+**Check the UI Screenshots to get a good idea on how the interface looks like**
